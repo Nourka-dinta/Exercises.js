@@ -6,13 +6,4 @@ console.log(color[0]);
 console.log(color[1]);
 console.log(color[2]);
 
-
-console.log("after push")
-color.push("white");
-
-console.log(color);
-
-console.log("after shift")
-color.shift();
-
 console.log(color);
