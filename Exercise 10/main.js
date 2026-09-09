@@ -13,4 +13,4 @@ let library = [
 
 console.log(book1.title);
 
-console.log(book2.author)
+console.log(book2.author);
