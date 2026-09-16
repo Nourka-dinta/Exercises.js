@@ -1,4 +1,4 @@
-// Implementing Your Own Callbacks
+// Implementing Your Own 'Callbacks'
 
 function operate(a,b, callback){
     return callback(a,b);
